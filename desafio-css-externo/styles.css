@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Desafio 1 – Estilos Inline</title>
         <style>
-        p {
-          font-family: Arial, sans-serif;
-          font-size: 14px
-        }
+            p {
+              font-family: Arial, sans-serif;
+              font-size: 14px
+            }
     </head>
     <body>
         <!-- Aqui aplicamos os estilos diretamente na tag h1 -->
